@@ -9,4 +9,4 @@ Raciocínio lógico é classificado em 3 tipos:
 
 **Aperfeiçoamento**, ato de aperfeiçoar a resolução do problema.
 
-[Back :leftwards_arrow_with_hook:](../README.md)s
+[Back :leftwards_arrow_with_hook:](../README.md)
