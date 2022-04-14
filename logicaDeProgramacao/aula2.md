@@ -38,11 +38,8 @@ Portugol é uma pseudolinguagem que permite ao leitor desenvolver algoritmos est
 
 É uma pseudoliguagem que permite ao programador pensar no problema em si e não no equipamento que irá executar o algoritmo.
 
-#### WEB IDE PORTUGOL:
-<div>
-<iframe src="https://portugol-webstudio.cubos.io/ide" width="100%" height="400px" frameborder="0" llowfullscreen="true">
-</iframe>
-</div>
+
+WEB IDE PORTUGOL: <https://portugol-webstudio.cubos.io/ide/>
 
 
 [Back :leftwards_arrow_with_hook:](../README.md)
