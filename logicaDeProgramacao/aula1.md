@@ -59,7 +59,7 @@ São valores imutáveis, e não alterados durante a vida útil de um programa.
 São expreções que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis.
 
 **Exemplo:**
-```
+```bash
 50+50
 total+50
 ```
@@ -77,7 +77,7 @@ total+50
 São expressões com constantes e/ou variáveis que tem como resultado valores literais. Iremos utilizar as expreções literais na atribuição de valor para uma variável ou constante.
 
 **Exemplo:**
-```
+```bash
 nome="José da Silva"
 nome <- "José da Silva"
 media=(nota1+nota2+nota3+nota4)/4
