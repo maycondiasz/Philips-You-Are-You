@@ -17,3 +17,6 @@
 #### Curso: Pensamento Computacional
 - [Visão Geral do Pensamento Computacional](pensamentoComputacional/aula1.md)
 - [Habilidades Complementares](pensamentoComputacional/aula2.md)
+---
+Curso: Introdução ao Git e ao GitHub
+- [Introdução ao Git](introducaoaoGiteaogithub/aula.md)

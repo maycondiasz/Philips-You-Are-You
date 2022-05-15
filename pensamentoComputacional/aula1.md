@@ -37,19 +37,35 @@ Refere-se ao desenvolvimento resolutivo de problema em expressões computacionai
 
 O **Pensamento Computacional** tem 4 pilares:
 
-#### <b>Decomposição</b>
+#### **Decomposição**
 Dividir um problema complexo em subproblemas.
 
-#### <b>Reconhecimento de padrões</b>
+#### **Reconhecimento de padrões**
 Identificar padrões e tendências. Similaridades e diferenças entre os problemas.
 
-#### <b>Abstração</b>
+#### **Abstração**
 Extrapolar o conceito do problema para uma forma generalista.
 
-#### <b>Design de algoritmos</b>
+#### **Design de algoritmos**
 Automatizar, definir passo a passo a solução do problema.
 
+---
+## Habilidades complementares
+### Raciocínio lógico
+É uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
 
+#### **Raciocínio lógico é classificado em 3 tipos:**
+- **Indução:** Fenômeno observado, formando leis e teorias.
+- **Dedução:** Leis e teorias, formando previsão e explicação.
+- **Abdução:** A conclusão determina a primissa.
+
+### Aperfeiçoamento
+Ato de aperfeiçoar, melhorar a solução encontrada.
+
+- Encontrar solução eficiente
+- Otmizar processos
+- Simplificar linhas de códigos
+- Funções bem definidas
 
 
 
