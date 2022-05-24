@@ -112,4 +112,4 @@ Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um úni
 A individualização de cada variável de um vetor é feita através do uso de índices.\
 Os Vetores são matrizes de uma só dimensão.
 
-[Back :leftwards_arrow_with_hook:](../README.md)
+[Back :back:](../README.md)

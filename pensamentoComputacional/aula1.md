@@ -67,6 +67,4 @@ Ato de aperfeiçoar, melhorar a solução encontrada.
 - Simplificar linhas de códigos
 - Funções bem definidas
 
-
-
-[Back :leftwards_arrow_with_hook:](../README.md)
+[Back :back:](../README.md)

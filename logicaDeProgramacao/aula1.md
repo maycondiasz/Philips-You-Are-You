@@ -110,4 +110,4 @@ Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fa
 
 Agrupamento de duas ou mais células que, incluindo fómulas, textos ou outras informações contida no seu interior, dá origem a um **único resultado**
 
-[Back :leftwards_arrow_with_hook:](../README.md)
+[Back :back:](../README.md)

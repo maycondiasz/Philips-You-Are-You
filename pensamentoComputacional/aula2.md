@@ -59,4 +59,4 @@ Decrever o problema por meio de ferramentas narrativa, fluxograma e pseudocódig
 * Codificação\
 O Algoritmo é codificado de acordo com a liguagem de programação escolhida.
 
-[Back :leftwards_arrow_with_hook:](../README.md)
+[Back :back:](../README.md)

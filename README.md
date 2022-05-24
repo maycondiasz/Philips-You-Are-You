@@ -16,7 +16,12 @@
 ---
 #### Curso: Pensamento Computacional
 - [Visão Geral do Pensamento Computacional](pensamentoComputacional/aula1.md)
-- [Habilidades Complementares](pensamentoComputacional/aula2.md)
+- [Pilares do Pensamento Computacional](pensamentoComputacional/aula2.md)
 ---
 Curso: Introdução ao Git e ao GitHub
-- [Introdução ao Git](introducaoaoGiteaogithub/aula.md)
+- [Introdução ao Git](introducaoaoGiteaogithub/aula1.md)
+- [Navegação via command line interface e instalação](introducaoaoGiteaogithub/aula2.md)
+- [Entendendo como o GIT funciona por baixo dos panos](introducaoaoGiteaogithub/aula3.md)
+- [Primeiros comandos com Git](introducaoaoGiteaogithub/aula4.md)
+
+[Back :back:](../README.md)
