@@ -24,5 +24,6 @@ Curso: Introdução ao Git e ao GitHub
 - [Navegação via command line interface e instalação](introducaoaoGiteaogithub/aula2.md)
 - [Entendendo como o GIT funciona por baixo dos panos](introducaoaoGiteaogithub/aula3.md)
 - [Primeiros comandos com Git](introducaoaoGiteaogithub/aula4.md)
+- [Introdução ao Github](introducaoaoGiteaogithub/aula5.md)
 
 [Back :back:](../README.md)
