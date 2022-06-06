@@ -26,4 +26,8 @@ Curso: Introdução ao Git e ao GitHub
 - [Primeiros comandos com Git](introducaoaoGiteaogithub/aula4.md)
 - [Introdução ao Github](introducaoaoGiteaogithub/aula5.md)
 
+---
+Curso: Introdução a criação de websites com HTML5 e CSS3
+- [Introdução ao curso de HTML](IntroducaoaCriacaodeWebsites/aula1.md)
+
 [Back :back:](../README.md)
